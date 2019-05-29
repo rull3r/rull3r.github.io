@@ -51,6 +51,11 @@ stackoverflow:
   baseURL: "https://stackoverflow.com/users/"
   icon: "fa-stack-overflow"
 
+esstackoverflow:
+  name: "StackOverflow"
+  baseURL: "https://es.stackoverflow.com/users/"
+  icon: "fa-stack-overflow"
+
 snapchat:
   name: "Snapchat"
   baseURL: "https://www.snapchat.com/add/"

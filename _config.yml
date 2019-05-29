@@ -23,8 +23,8 @@ description: Data Science
 
 # List of links in the navigation bar
 navbar-links:
-  blog: ""
-  Proyectos: "aboutme"
+  blog: "blog/index.html"
+  Proyectos: ""
   Programacion: 
     - Python: "https://www.python.org/"
     - R-project: "https://www.r-project.org/"
@@ -33,7 +33,7 @@ navbar-links:
   Matematicas:
     - Geometria: "https://es.wikipedia.org/wiki/Geometría"
     - Analisis Numerico: "https://es.wikipedia.org/wiki/Análisis_numérico"
-  Sobre mi: "blog/index.html"
+  Sobre mi: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -85,7 +85,8 @@ social-network-links:
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "11573896/rull3r"
+  esstackoverflow: "130517/rull3r"
   snapchat: rull3r
   instagram: rull3r
 #  youtube: user/deanat78
@@ -93,7 +94,7 @@ social-network-links:
   telephone: +5804244165517
 #  steam: deanat78
 #  twitch: yourname
-  yelp: Raul Garcia
+#  yelp: Raul Garcia
 
 # Select which share links to show in posts
 share-links-active:
