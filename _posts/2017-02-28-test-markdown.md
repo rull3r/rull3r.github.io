@@ -2,7 +2,7 @@
 layout: post
 title: Test markdown
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+gh-repo: rull3r/thesisdown
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
