@@ -24,7 +24,7 @@ description: Data Science
 # List of links in the navigation bar
 navbar-links:
   blog: "blog/index.html"
-  Proyectos: ""
+  Proyectos: "proyectos/index.html"
   Programacion: 
     - Python: "https://www.python.org/"
     - R-project: "https://www.r-project.org/"
