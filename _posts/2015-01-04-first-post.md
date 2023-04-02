@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post!
+full-width: true
 ---
 
 This is vmvmc $x^3$ fi rst post, how exciting!
