@@ -58,4 +58,22 @@ full-width: true
 </div>
     </a></center></td>
 </tr>
+
+
+<tr>
+    <td id="Solucionario-PatternRecognitionML-Bishop"><center><a href="#">
+      <img alt="Solucionario-PatternRecognitionML-Bishop" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/71pdg8S7QBL.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Pattern Recognition and Machine Learning |  Christopher M. Bishop | 1º Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-Topologia-Munkres"><center>
+      <a href="#"><img alt="Solucionario-Topologia-Munkres" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/81m4oIRi8xL.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Topología  |  James Munkres - Ángel Ferrández | 2º Edición | Español</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 98%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">98%</div>
+</div>
+    </a></center></td>
+</tr>
 </tbody>
