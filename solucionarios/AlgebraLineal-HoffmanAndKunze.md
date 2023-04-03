@@ -6,8 +6,7 @@ full-width: true
 comments: true
 ---
 
-<center><img alt="Solucionario-AlgebraLineal-HoffmanAndKunze" width="400" height="600" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/41m-Ry35hyL.jpg"></center>
-
+<center><a href= "https://www.amazon.com/-/es/Kenneth-Hoffman/dp/9688800090/ref=sr_1_10?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=W5L4GPEU2XGF&keywords=hoffman+kunze&qid=1680524654&sprefix=hoffman+kunze%2Caps%2C227&sr=8-10"><img alt="Solucionario-AlgebraLineal-HoffmanAndKunze" width="400" height="600" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/41m-Ry35hyL.jpg"></a></center>
 
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -21,7 +20,38 @@ comments: true
     </div>
     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+
+<ol>
+  <li value="1.2">
+    <b>Sistemas de ecuaciones lineales</b>
+    <ol class="ol-cols">
+      <a href="#"><li>1</li></a>
+      <a href="#"><li>2</li></a>
+      <a href="#"><li>3</li></a>
+      <a href="#"><li>4</li></a>
+      <a href="#"><li>5</li></a>
+      <a href="#"><li>6</li></a>
+      <a href="#"><li>7</li></a>
+      <a href="#"><li>8</li></a>
+    </ol>
+  </li>
+
+  <br>
+  <li value="1.3">
+    <b>Matrices y operaciones elementales por fila</b>
+    <ol class="ol-cols">
+      <a href="#"><li>1</li></a>
+      <a href="#"><li>2</li></a>
+      <a href="#"><li>3</li></a>
+      <a href="#"><li>4</li></a>
+      <a href="#"><li>5</li></a>
+      <a href="#"><li>6</li></a>
+      <a href="#"><li>7</li></a>
+      <a href="#"><li>8</li></a>
+    </ol>
+  </li>
+</ol>
+
       </div>
     </div>
   </div>
@@ -35,7 +65,7 @@ comments: true
     </div>
     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        En contruccion
       </div>
     </div>
   </div>
@@ -49,7 +79,7 @@ comments: true
     </div>
     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        En contruccion
       </div>
     </div>
   </div>

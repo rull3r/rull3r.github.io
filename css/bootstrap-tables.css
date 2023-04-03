@@ -7,3 +7,36 @@
 td:hover {
     background-color: #a1c1e6;
 }
+
+.ol-cols{
+    grid-area: problem-list;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0;
+    
+}
+
+.ol-cols li {
+  display: flex;
+  min-width: 100px;
+  padding-top: 4px;
+}
+
+ol {
+  list-style: none;
+  padding-left: 5px;
+}
+
+li {
+  display: table-row;
+}
+
+li li:hover {
+  background-color: #a1c1e6;
+}
+li:before {
+  content: attr(value) '';
+  display: table-cell;
+  font-weight: bold;
+  padding-right: 5px;
+}
