@@ -1,0 +1,9 @@
+.table a
+{
+    display:block;
+    text-decoration:none;
+}
+
+td:hover {
+    background-color: #a1c1e6;
+}

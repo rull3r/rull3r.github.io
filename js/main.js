@@ -36,7 +36,24 @@ var main = {
         }
       });
     });
+    var hah;
 
+    if (window.location.href.includes("proyectos")) {
+      $.ajax({
+        url: "https://api.github.com/users/rull3r/repos?per_page=30&page=0&sort=updated",
+      })
+        .done(function( data ) {
+          data.forEach((repo) => {
+            var center = $("#" + repo.name + " > center");
+            if (center.length) {
+              center.find("div > .stars").text(repo.stargazers_count);
+              center.find("a.repo-description").text(repo.description.replace(/:[^ :]+: ?/, ""));
+            }
+          })
+          console.info(data);
+          hah = data;
+        });
+    }
     // Ensure nested navbar menus are not longer than the menu header
     var menus = $(".navlinks-container");
     if (menus.length > 0) {
