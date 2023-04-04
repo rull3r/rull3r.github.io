@@ -4,7 +4,7 @@ title: Solución Cap$:$ 1, Sec$:$1.2, Ejercicio$:$ 1
 subtitle: Algebra Lineal | Hoffman - Kunze | 2º Edición | Español
 gh-repo: rull3r/Solucionario-AlgebraLineal-HoffmanAndKunze
 gh-badge: [star, fork, follow]
-tags: [solucionario,matematicas,algebra,lineal,latex,libro, algebra lineal]
+tags: [solucionario,matematicas,algebra,lineal,latex,libro, algebra lineal,cuerpo, numeros complejos]
 full-width: true
 comments: true
 ---

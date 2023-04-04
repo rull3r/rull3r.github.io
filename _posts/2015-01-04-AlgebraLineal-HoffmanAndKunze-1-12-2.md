@@ -4,7 +4,7 @@ title: Solución Cap$:$ 1, Sec$:$1.2, Ejercicio$:$ 2
 subtitle: Algebra Lineal | Hoffman - Kunze | 2º Edición | Español
 gh-repo: rull3r/Solucionario-AlgebraLineal-HoffmanAndKunze
 gh-badge: [star, fork, follow]
-tags: [solucionario,matematicas,algebra,lineal,latex,libro, algebra lineal]
+tags: [solucionario,matematicas,algebra,lineal,latex,libro, algebra lineal,cuerpo, numeros complejos]
 comments: true
 ---
 
@@ -99,4 +99,6 @@ b&= \frac{2}{3}
 \end{align}$$
 
 de modo que $x_1+x_2=\frac{-1}{3}(x_1-x_2)+\frac{2}{3}(2x_1+x_2)$
+
+Finalmente los dos sistemas de ecuaciones son equivalentes.
 
