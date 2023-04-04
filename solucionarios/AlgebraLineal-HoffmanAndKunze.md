@@ -26,28 +26,8 @@ comments: true
     <b>Sistemas de ecuaciones lineales</b>
     <ol class="ol-cols">
       <a href="../../2015-01-04-AlgebraLineal-HoffmanAndKunze-1-12-1"><li>1</li></a>
-      <a href="../../2015-02-28-AlgebraLineal-HoffmanAndKunze-1-12-2"><li>2</li></a>
-      <a href="#"><li>3</li></a>
-      <a href="#"><li>4</li></a>
-      <a href="#"><li>5</li></a>
-      <a href="#"><li>6</li></a>
-      <a href="#"><li>7</li></a>
-      <a href="#"><li>8</li></a>
-    </ol>
-  </li>
-
-  <br>
-  <li value="1.3">
-    <b>Matrices y operaciones elementales por fila</b>
-    <ol class="ol-cols">
-      <a href="#"><li>1</li></a>
-      <a href="#"><li>2</li></a>
-      <a href="#"><li>3</li></a>
-      <a href="#"><li>4</li></a>
-      <a href="#"><li>5</li></a>
-      <a href="#"><li>6</li></a>
-      <a href="#"><li>7</li></a>
-      <a href="#"><li>8</li></a>
+      <a href="../../2015-01-04-AlgebraLineal-HoffmanAndKunze-1-12-2"><li>2</li></a>
+      <a href="../../2015-01-04-AlgebraLineal-HoffmanAndKunze-1-12-3"><li>3</li></a>
     </ol>
   </li>
 </ol>
