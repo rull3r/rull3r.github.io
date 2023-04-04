@@ -185,11 +185,13 @@ defaults:
       layout: "post"
       comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
+      full-width: true
   - scope:
       path: "" # all files
     values:
       layout: "page"
       show-avatar: true
+      full-width: true
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
