@@ -10,7 +10,7 @@ full-width: true
 <table id="repo-table" border="1" class="table">
 <tbody>
 <tr>
-    <td id="Solucionario-AlgebraLineal-HoffmanAndKunze"><center><a href="../solucionarios/AlgebraLineal-HoffmanAndKunze">
+    <td id="Solucionario-AlgebraLineal-HoffmanAndKunze" style = "width: 50%;"><center><a href="../solucionarios/AlgebraLineal-HoffmanAndKunze">
       <img alt="Solucionario-AlgebraLineal-HoffmanAndKunze" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/41m-Ry35hyL.jpg">
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Algebra Lineal | Hoffman - Kunze | 2º Edición | Español</b></div>
       <div class="progress" tyle="height: 3px;">
