@@ -26,7 +26,7 @@ full-width: true
     </a></center></td>
 </tr>
 <tr>
-    <td id="Solucionario-NumberTheory-Crytography-JamesLawrence"><center><a href="#">
+    <td id="Solucionario-NumberTheory-Crytography-JamesLawrence"><center><a href="../solucionarios/NumberTheory-Crytography-JamesLawrence">
       <img alt="Solucionario-NumberTheory-Crytography-JamesLawrence" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/41hTjUcqYJL.jpg">
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>An Introduction to Number Theory with Cryptography |  James Kraft - Lawrence Washington | 2º Edición | Ingles</b></div>
       <div class="progress" tyle="height: 3px;">
