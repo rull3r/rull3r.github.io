@@ -18,8 +18,8 @@ full-width: true
 </div></a>
     </center></td>
     <td id="Solucionario-AlgebraModerna-Herstein"><center>
-      <a href="#"><img alt="Solucionario-AlgebraModerna-Herstein" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/81AKgAMMxEL.jpg">
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Algebra Moderna |  I. N. Herstein | 1º Edición | Español</b></div>
+      <a href="../solucionarios/AlgebraModerna-Herstein"><img alt="Solucionario-AlgebraModerna-Herstein" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/81AKgAMMxEL.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Algebra Moderna |  I. N. Herstein | 2º Edición | Español</b></div>
       <div class="progress" tyle="height: 3px;">
   <div class="progress-bar" role="progressbar" style="width: 42%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">42%</div>
 </div>

@@ -26,7 +26,7 @@ x_2+3x_3=0
     
 </div>
 
-
+### Solucion
 
 
 Para la ecuación 1 del sistema 1 hacemos $-x_1+x_2+4x_3=a(x_1-x_3)+b(x_2+3x_3)$
