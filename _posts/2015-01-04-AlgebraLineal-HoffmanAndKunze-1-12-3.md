@@ -9,7 +9,7 @@ comments: true
 ---
 
 <div class="box-note">
-	Prueba los siguientes sistemas de ecuaciones como en el <a href="../2015-01-04-AlgebraLineal-HoffmanAndKunze-1-12-2">Ejercicio 2</a>.
+	Sea $F$ el cuerpo de los números complejos. ¿Son equivalentes los dos sistemas de ecuaciones lineales siguiente? Si es así. expresar cada ecuación de cada sistema como combinación lineal del otro. Tal y como en el problema anterior -> <a href="../2015-01-04-AlgebraLineal-HoffmanAndKunze-1-12-2">Ejercicio 2</a>.
 
 $$\begin{align}
 \left\lbrace\begin{aligned}
