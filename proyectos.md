@@ -76,4 +76,22 @@ full-width: true
 </div>
     </a></center></td>
 </tr>
+
+
+<tr>
+    <td id="Solucionario-Bayesatistical-ReichGhosh"><center><a href="../solucionarios/Solucionario-Bayesatistical-ReichGhosh">
+      <img alt="Solucionario-Bayesatistical-ReichGhosh" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/0815378645.01._SCLZZZZZZZ_SX500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Bayesian Statistical Methods | Brian J. Reich - Sujit K. Ghosh | 1st Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-BayesianReasoning-Barber"><center>
+      <a href="#"><img alt="Solucionario-BayesianReasoning-Barber" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/0521518148.01._SCLZZZZZZZ_SX500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Bayesian Reasoning and Machine Learning  |  David Barber | 1st Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 6%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">6%</div>
+</div>
+    </a></center></td>
+</tr>
 </tbody>
