@@ -94,4 +94,42 @@ full-width: true
 </div>
     </a></center></td>
 </tr>
+
+
+
+<tr>
+    <td id="Solucionario-DataScience-MachineLearning-DTRZ"><center><a href="#">
+      <img alt="Solucionario-DataScience-MachineLearning-DTRZ" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/1138492531.01._SCLZZZZZZZ_SX500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Data Science and Machine Learning: Mathematical and Statistical Methods | Dirk P. Kroese - Thomas Taimre - Radislav Vaisman - Zdravko Botev | 1st Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-MarkovChains-Bremaud"><center>
+      <a href="#"><img alt="Solucionario-MarkovChains-Bremaud" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/3030459810.01._SCLZZZZZZZ_SX500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Cadenas de Markov: Gibbs Fields, Monte Carlo Simulation and Queues  |  Pierre Bremaud | 2da Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 6%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">6%</div>
+</div>
+    </a></center></td>
+</tr>
+
+
+
+<tr>
+    <td id="Solucionario-PatternRecog-KT"><center><a href="#">
+      <img alt="Solucionario-PatternRecog-KT" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/1597492728.01._SCLZZZZZZZ_SX500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Pattern Recognition | Konstantinos Koutroumbas - Sergios Theodoridis | 4ta Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-Algorithms"><center>
+      <a href="#"><img alt="Solucionario-Algorithms" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/B094WZNKP2.01._SCLZZZZZZZ_SX500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Introduction to Algorithms  |  Thomas H. Cormen - Charles E. Leiserson - Ronald L. Rivest - Clifford Stein | 4ta Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 6%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">6%</div>
+</div>
+    </a></center></td>
+</tr>
 </tbody>
