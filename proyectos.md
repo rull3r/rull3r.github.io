@@ -132,4 +132,15 @@ full-width: true
 </div>
     </a></center></td>
 </tr>
+
+<tr >
+    <td colspan="2" id="Solucionario-TimeForecasting-M"><center><a href="#">
+      <img alt="Solucionario-TimeForecasting-M" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/B014T2591Y.01._SCLZZZZZZZ_SX500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Introduction to Time Series Analysis and Forecasting | Douglas C. Montgomery - Cheryl L. Jennings - Murat Kulahci | 2da Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+</div></a>
+    </center></td>
+    
+</tr>
 </tbody>

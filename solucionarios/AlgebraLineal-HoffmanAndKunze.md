@@ -28,6 +28,7 @@ comments: true
       <a href="../../2015-01-04-AlgebraLineal-HoffmanAndKunze-1-12-1"><li>1</li></a>
       <a href="../../2015-01-04-AlgebraLineal-HoffmanAndKunze-1-12-2"><li>2</li></a>
       <a href="../../2015-01-04-AlgebraLineal-HoffmanAndKunze-1-12-3"><li>3</li></a>
+      <a href="../../2015-01-05-AlgebraLineal-HoffmanAndKunze-1-12-4"><li>4</li></a>
     </ol>
   </li>
 </ol>
