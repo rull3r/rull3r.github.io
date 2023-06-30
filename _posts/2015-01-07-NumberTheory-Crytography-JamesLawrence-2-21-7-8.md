@@ -2,7 +2,7 @@
 layout: post
 title: Solución Cap$:$ 2, Sec$:$2.1, Ejercicios$:$ 7 y 8
 subtitle: An Introduction to Number Theory with Cryptography |  James Kraft - Lawrence Washington | 2º Edición | Ingles
-gh-repo: rull3r/Solucionario-AlgebraModerna-Herstein
+gh-repo: rull3r/Solucionario-NumberTheory-Crytography-JamesLawrence
 gh-badge: [star, fork, follow]
 tags: [solucionario,matematicas,latex,libro, crypto, criptografica ,algebra abstracta, divisibilidad, numeros, teoria de numeros]
 comments: true
