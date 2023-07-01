@@ -6,7 +6,7 @@ full-width: true
 comments: true
 ---
 
-<center><a href= "https://www.famaf.unc.edu.ar/~reula/"><img alt="Solucionario-AlgebraLineal-HoffmanAndKunze" width="400" height="600" style="object-fit: contain;" src="https://0.academia-photos.com/attachment_thumbnails/55365597/mini_magick20190114-26964-76c049.png"></a></center>
+<center><a href= "https://www.famaf.unc.edu.ar/~reula/"><img alt="Solucionario-MetodosFisicos-Oscar" width="400" height="600" style="object-fit: contain;" src="https://0.academia-photos.com/attachment_thumbnails/55365597/mini_magick20190114-26964-76c049.png"></a></center>
 
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
