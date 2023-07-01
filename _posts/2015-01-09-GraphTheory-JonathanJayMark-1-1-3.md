@@ -60,18 +60,138 @@ Para los siguientes ejercicios construir un dibujo lineal, una tabla de incidenc
 	</tr>
 </table>
 
-<3,2,1,0>
+<h3><3,2,1,0></h3>
+
 
 <div class="box-note">
 	2)<br><br>
     $V = \{u, v, x, y, z\}$ $\quad$;$\quad$ $E = \{a, b, c, d\}$ <br>
-	endpts$(e) = \{u, v\}$$\quad$;$\quad$ endpts$(b) = \{x, v\}$$\quad$;$\quad$ endpts$(c) = \{u, v\}$$\quad$;$\quad$ endpts$(d) = \{x\}$
+	endpts$(a) = \{u, v\}$$\quad$;$\quad$ endpts$(b) = \{x, v\}$$\quad$;$\quad$ endpts$(c) = \{u, v\}$$\quad$;$\quad$ endpts$(d) = \{x\}$
 </div>
+
+<img style="border-collapse: collapse; border: none; border-spacing: 0px;width: 350px;height: 350px;" src="https://raw.githubusercontent.com/rull3r/Solucionario-GraphTheory-JonathanJayMark/master/1-Introduction-to-graph-models/1-Graps-and-Digraphs/imagenes/grafo1-2.png" alt="Grafo 1-2" />
+<table style="border-collapse: collapse; border: none; border-spacing: 0px;width: 40%;height: 40%;">
+	<tr>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			arista
+		</td>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$a$
+		</td>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$b$
+		</td>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$c$
+		</td>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$d$
+		</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			endpts
+		</td>
+		<td style="border-top: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$u$
+		</td>
+		<td style="border-top: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$x$
+		</td>
+		<td style="border-top: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$u$
+		</td>
+		<td style="border-top: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$x$
+		</td>
+	</tr>
+	<tr>
+		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+		</td>
+		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$v$
+		</td>
+		<td style="padding-right: 3pt; padding-left: 3pt;">
+			$v$
+		</td>
+		<td style="padding-right: 3pt; padding-left: 3pt;">
+			$v$
+		</td>
+		<td style="padding-right: 3pt; padding-left: 3pt;">
+			$x$
+		</td>
+	</tr>
+</table>
+<h3><3,3,2,0,0></h3>
 
 <div class="box-note">
 	3)<br><br>
     $V = \{u, v, x, y, z\}$ $\quad$; $\quad$ $E = \{e, f, g, h, k\}$ <br>
 	endpts$(e) = $endpts$(f) = \{u, v\}\quad$;$\quad$ endpts$(g) = \{x, z\}\quad$;$\quad$ endpts$(h) =$ endpts$(k) = \{y\}$
 </div>
+
+<img style="border-collapse: collapse; border: none; border-spacing: 0px;width: 350px;height: 350px;" src="https://raw.githubusercontent.com/rull3r/Solucionario-GraphTheory-JonathanJayMark/master/1-Introduction-to-graph-models/1-Graps-and-Digraphs/imagenes/grafo1-3.png" alt="Grafo 1-3" />
+<table style="border-collapse: collapse; border: none; border-spacing: 0px;width: 40%;height: 40%;">
+	<tr>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			arista
+		</td>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$e$
+		</td>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$f$
+		</td>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$g$
+		</td>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$h$
+		</td>
+		<td style="border-bottom: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$k$
+		</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			endpts
+		</td>
+		<td style="border-top: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$u$
+		</td>
+		<td style="border-top: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$u$
+		</td>
+		<td style="border-top: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$x$
+		</td>
+		<td style="border-top: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$y$
+		</td>
+		<td style="border-top: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$y$
+		</td>
+	</tr>
+	<tr>
+		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+		</td>
+		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
+			$v$
+		</td>
+		<td style="padding-right: 3pt; padding-left: 3pt;">
+			$v$
+		</td>
+		<td style="padding-right: 3pt; padding-left: 3pt;">
+			$z$
+		</td>
+		<td style="padding-right: 3pt; padding-left: 3pt;">
+			$y$
+		</td>
+		<td style="padding-right: 3pt; padding-left: 3pt;">
+			$y$
+		</td>
+	</tr>
+</table>
+<h3><4,2,2,1,1></h3>
 
 ### Solucion
