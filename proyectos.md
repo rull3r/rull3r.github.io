@@ -43,7 +43,7 @@ full-width: true
 </tr>
 
 <tr>
-    <td id="Solucionario-GraphTheory-JonathanJayMark"><center><a href="#">
+    <td id="Solucionario-GraphTheory-JonathanJayMark"><center><a href="../solucionarios/GraphTheory-JonathanJayMark">
       <img alt="Solucionario-GraphTheory-JonathanJayMark" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/61niUJV13GL.jpg">
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Graph Theory and Its Applications |  Jonathan L. Gross - Jay Yellen - Mark Anderson | 3º Edición | Ingles</b></div>
       <div class="progress" tyle="height: 3px;">
