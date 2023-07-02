@@ -61,7 +61,7 @@ full-width: true
 
 
 <tr>
-    <td id="Solucionario-PatternRecognitionML-Bishop"><center><a href="#">
+    <td id="Solucionario-PatternRecognitionML-Bishop"><center><a href="../solucionarios/PatternRecognitionML-Bishop">
       <img alt="Solucionario-PatternRecognitionML-Bishop" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/71pdg8S7QBL.jpg">
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Pattern Recognition and Machine Learning |  Christopher M. Bishop | 1º Edición | Ingles</b></div>
       <div class="progress" tyle="height: 3px;">
