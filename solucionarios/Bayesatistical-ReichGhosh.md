@@ -6,7 +6,7 @@ full-width: true
 comments: true
 ---
 
-<center><a href= "https://www.amazon.com/Bayesian-Statistical-Methods-Chapman-Science/dp/0815378645"><img alt="Solucionario-NumberTheory-Crytography-JamesLawrence" width="400" height="600" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/0815378645.01._SCLZZZZZZZ_SX500_.jpg"></a></center>
+<center><a href= "https://www.amazon.com/Bayesian-Statistical-Methods-Chapman-Science/dp/0815378645"><img alt="Solucionario-Bayesatistical-ReichGhosh" width="400" height="600" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/0815378645.01._SCLZZZZZZZ_SX500_.jpg"></a></center>
 <br>
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">

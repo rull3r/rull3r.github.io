@@ -79,7 +79,7 @@ full-width: true
 
 
 <tr>
-    <td id="Solucionario-Bayesatistical-ReichGhosh"><center><a href="../solucionarios/Solucionario-Bayesatistical-ReichGhosh">
+    <td id="Solucionario-Bayesatistical-ReichGhosh"><center><a href="../solucionarios/Bayesatistical-ReichGhosh">
       <img alt="Solucionario-Bayesatistical-ReichGhosh" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/0815378645.01._SCLZZZZZZZ_SX500_.jpg">
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Bayesian Statistical Methods | Brian J. Reich - Sujit K. Ghosh | 1st Edición | Ingles</b></div>
       <div class="progress" tyle="height: 3px;">
