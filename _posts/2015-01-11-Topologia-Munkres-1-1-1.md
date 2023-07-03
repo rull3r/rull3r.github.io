@@ -4,12 +4,12 @@ title: Solución Cap$:$ 1, Sec$:$1, Ejercicio$:$ 1
 subtitle: Topología  |  James Munkres | 2º Edición | Español
 gh-repo: rull3r/Solucionario-Topologia-Munkres
 gh-badge: [star, fork, follow]
-tags: [solucionario,matematicas,topologia,conjuntos, logica, latex,libro, teoria de conjuntos,union, DeMorgan]
+tags: [solucionario,matematicas,topologia,conjuntos, logica, latex,libro, teoria de conjuntos,union, Morgan]
 comments: true
 ---
 
 <div class="box-note">
-  Compruebe las leyes distributivas para la union y la intersección , asi como tambien las leyes DeMorgan.
+  Compruebe las leyes distributivas para la union y la intersección , asi como tambien las leyes De Morgan.
 </div>
 
 ### Solucion
@@ -26,8 +26,11 @@ x \in A \cup (B \cap C) &\implies x \in A \text{ o } x \in (B \cap C)\\
 \end{aligned}
 \quad\quad\quad\quad
 (\supset)\begin{aligned}
-x \in (A \cup B) \cap (A \cup C) &\implies \\
-&\implies
+x \in (A \cup B) \cap (A \cup C) &\implies x \in (A \cup B) \text{ y } x \in (A \cup C)\\
+&\implies \left(x \in A \text{ o } x \in B\right) \text{ y } \left(x \in A \text{ o }x \in C \right)\\
+&\implies x \in A \text{ o } \left(x \in B \text{ y } x \in C \right)\\
+&\implies x \in A \text{ o } x \in (B \cap C)\\
+&\implies x \in A \cup (B \cap C)
 \end{aligned}
 \end{align}$$
 
@@ -183,3 +186,70 @@ Antes de continuar ya habras notado que para estas demostraciones usamos logica 
 
 <p>Estas demostraciones utilizando tablas de verdad confirman las propiedades distributivas de las conectivas lógicas AND y OR.</p>
 </div>
+
+Ahora veremos que $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$,
+
+$$\begin{align}
+(\subset) \begin{aligned}
+x \in A \cap (B \cup C) &\implies x \in A \text{ y } x \in (B \cup C)\\
+&\implies x \in A \text{ y } \left(x \in B \text{ o } x \in C \right)\\
+&\implies \left(x \in A \text{ y } x \in B\right) \text{ o } \left(x \in A \text{ y }x \in C \right)\\
+&\implies x \in \left(A \cap B\right) \text{ o } x \in \left(A \cap C\right)\\
+&\implies x \in \left(A \cap B\right) \cup \left(A \cap C\right)
+\end{aligned}
+\quad\quad\quad\quad
+(\supset)\begin{aligned}
+x \in (A \cap B) \cup (A \cap C) &\implies x \in \left(A \cap B\right) \text{ o } x \in \left(A \cap C\right)\\
+&\implies \left(x \in A \text{ y } x \in B\right) \text{ o } \left(x \in A \text{ y }x \in C \right)\\
+&\implies x \in A \text{ y } \left(x \in B \text{ o } x \in C \right)\\
+&\implies  x \in A \text{ y } x \in (B \cup C)\\
+&\implies x \in A \cap (B \cup C)
+\end{aligned}
+\end{align}$$
+
+
+Es el turno ahora de las Leyes De Morgan
+
+Sean los conjuntos $A$, $B$, primero veremos que $(A \cap B)^c = A^c \cup B^c$,
+
+$$\begin{align}
+(\subset) \begin{aligned}
+x \in (A \cap B)^c &\implies x \notin (A \cap B)\\
+&\implies \text{si no esta en la interseccion,}\\
+&\hspace{1.55cm}\text{entonces puede estar en A o en B}\\
+&\implies x \notin A \text{ o }  x \notin B\\
+&\implies x \in A^c \text{ o }  x \in B^c\\
+&\implies x \in A^c \cup  B^c
+\end{aligned}
+\quad\quad\quad\quad
+(\supset)\begin{aligned}
+ x \in A^c \cup  B^c &\implies x \in A^c \text{ o }  x \in B^c\\
+&\implies x \notin A \text{ o }  x \notin B\\
+&\implies \text{si ni en A ni en B,}\\
+&\hspace{1.55cm}\text{entonces no puede estar en la interseccion}\\
+&\implies x \notin (A \cap B)\\
+& \implies x \in (A \cap B)^c\\
+\end{aligned}
+\end{align}$$
+
+Ahora veremos que $(A \cup B)^c = A^c \cap B^c$,
+
+$$\begin{align}
+(\subset) \begin{aligned}
+x \in (A \cup B)^c &\implies x \notin (A \cup B)\\
+&\implies \text{si ni en A ni en B,}\\
+&\hspace{1.55cm}\text{entonces no puede estar en la interseccion}\\
+&\implies x \notin A \text{ y }  x \notin B\\
+&\implies x \in A^c \text{ y }  x \in B^c\\
+&\implies x \in A^c \cap  B^c
+\end{aligned}
+\quad\quad\quad\quad
+(\supset)\begin{aligned}
+ x \in A^c \cap B^c &\implies x \in A^c \text{ y }  x \in B^c\\
+&\implies x \notin A \text{ y }  x \notin B\\
+&\implies \text{si no esta en A y ni en B,}\\
+&\hspace{1.55cm}\text{entonces no puede estar en la union}\\
+&\implies x \notin (A \cup B)\\
+& \implies x \in (A \cup B)^c\\
+\end{aligned}
+\end{align}$$
