@@ -10,7 +10,7 @@ comments: true
 ---
 
 <div class="box-note">
-Si $X$ tiene como soporte $X \in S = [1,\infty]$, entonctrar el valor de la constante $c$ (como una funcion de $\theta$) que haga que $$f(x)=c e^\left(\frac{-x}{\theta}\right)$$
+Si $X$ tiene como soporte $X \in S = [1,\infty]$, encontrar el valor de la constante $c$ (como una funcion de $\theta$) que haga que $$f(x)=c e^\left(\frac{-x}{\theta}\right)$$
 
 sea una función de densidad de probabilidad valida.
 </div>
@@ -28,5 +28,5 @@ $$\begin{align}
 
 finalmente despejamos c de la ultima ecuacion y tendremos que el valor buscado es 
 
-$$c= \dfrac{e^{\frac{1}{\theta}}}{\theta} $$
+$$c= \dfrac{e^{\frac{1}{\theta}}}{\theta} \quad \text{con} \quad \theta > 0$$
 
