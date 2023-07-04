@@ -20,7 +20,7 @@ comments: true
     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
     <ol class="ol-cols">
-      <a href="#"><li>1</li></a>
+      <a href="../../2015-01-12-Bayesatistical-ReichGhosh-1-1"><li>1</li></a>
     </ol>
       </div>
     </div>
