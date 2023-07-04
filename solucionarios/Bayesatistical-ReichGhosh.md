@@ -19,16 +19,9 @@ comments: true
     </div>
     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
-
-<ol>
-  <li value="1.6">
-    <b>Ejercicios</b>
     <ol class="ol-cols">
       <a href="#"><li>1</li></a>
     </ol>
-  </li>
-</ol>
-
       </div>
     </div>
   </div>
