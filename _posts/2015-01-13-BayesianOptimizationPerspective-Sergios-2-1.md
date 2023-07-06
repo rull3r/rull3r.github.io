@@ -50,4 +50,11 @@ $$\begin{align}
 &=\sum_{k=0}^n k^2\binom{n}{k} p^k(1-p)^{n-k} - (np)^2 \\
 &=\sum_{k=0}^n k^2\frac{n!}{k!(n-k)!} p^k(1-p)^{n-k} - (np)^2\quad \text{(el primer elemento es 0)} \\ 
 &=\sum_{k=1}^n k^2\frac{n!}{k!(n-k)!} p^k(1-p)^{n-k} - (np)^2 \\
+&\text{sacando factor comun $np$ mas directamente y simplificar $k$ }\\
+&= np\left(\sum_{k=1}^n(k)\frac{(n-1)!}{(k-1)!(n-k)!}p^{k-1}(1-p)^{n-k}\right) - (np)^2\\
+&= \frac{n!}{(n-1)!} p(1-p)^{n-1}+2^2\frac{n!}{2!(n-2)!} p^2(1-p)^{n-2}+3^2\frac{n!}{3!(n-3)!} p^3(1-p)^{n-3}+\cdots+ n^2\frac{n!}{n!(n-n)!} p^n(1-p)^{n-n} - (np)^2\\
+&\text{Primero simplificamos los factoriales}\\
+&= np(1-p)^{n-1}+2\frac{n(n-1)}{1!} p^2(1-p)^{n-2}+3\frac{n(n-1)(n-2)}{2!} p^3(1-p)^{n-3}+\cdots+ n^2p^n  - (np)^2 \\
+&= np\left((1-p)^{n-1}+2\frac{(n-1)}{1!} p(1-p)^{n-2}+3\frac{(n-1)(n-2)}{2!} p^2(1-p)^{n-3}+\cdots+ np^{n-1}\right) - (np)^2\\
+&= np\left(\sum_{k=1}^n(k)\frac{(n-1)!}{(k-1)!(n-k)!}p^{k-1}(1-p)^{n-k}\right) - (np)^2\\
 \end{align}$$
