@@ -98,7 +98,7 @@ full-width: true
 
 
 <tr>
-    <td id="Solucionario-DataScience-MachineLearning-DTRZ"><center><a href="#">
+    <td id="Solucionario-DataScience-MachineLearning-DTRZ"><center><a href="../solucionarios/DataScience-MachineLearning-DTRZ">
       <img alt="Solucionario-DataScience-MachineLearning-DTRZ" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/1138492531.01._SCLZZZZZZZ_SX500_.jpg">
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Data Science and Machine Learning: Mathematical and Statistical Methods | Dirk P. Kroese - Thomas Taimre - Radislav Vaisman - Zdravko Botev | 1st Edición | Ingles</b></div>
       <div class="progress" tyle="height: 3px;">
