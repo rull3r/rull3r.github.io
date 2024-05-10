@@ -26,6 +26,7 @@ comments: true
     <ol class="ol-cols">
       <a href="../../2015-01-04-AlgebraModerna-Herstein-1-1-1"><li>1</li></a>
       <a href="../../2015-01-06-AlgebraModerna-Herstein-1-1-2"><li>2</li></a>
+      <a href="../../2024-05-09-AlgebraModerna-Herstein-1-1-3"><li>3</li></a>
     </ol>
   </li>
 </ol>
