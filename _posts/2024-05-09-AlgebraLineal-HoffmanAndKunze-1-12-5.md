@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solución Cap$:$ 1, Sec$:$1.2, Ejercicio$:$ 4
+title: Solución Cap$:$ 1, Sec$:$1.2, Ejercicio$:$ 5
 subtitle: Algebra Lineal | Hoffman - Kunze | 2º Edición | Español
 gh-repo: rull3r/Solucionario-AlgebraLineal-HoffmanAndKunze
 gh-badge: [star, fork, follow]
