@@ -26,6 +26,7 @@ comments: true
     <ol class="ol-cols">
       <a href="../../2015-01-06-NumberTheory-Crytography-JamesLawrence-2-21-1-6"><li>1-6</li></a>
       <a href="../../2015-01-07-NumberTheory-Crytography-JamesLawrence-2-21-7-8"><li>7-8</li></a>
+      <a href="../../2024-05-09-NumberTheory-Crytography-JamesLawrence-2-21-9-11"><li>9-11</li></a>
     </ol>
   </li>
 </ol>
