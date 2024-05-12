@@ -22,6 +22,7 @@ comments: true
       <div class="panel-body">
     <ol class="ol-cols">
       <a href="../../2015-01-10-PatternRecognitionML-Bishop-1-1"><li>1</li></a>
+      <a href="../../2024-05-12-PatternRecognitionML-Bishop-1-2"><li>2</li></a>
     </ol>
       </div>
     </div>
