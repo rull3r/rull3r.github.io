@@ -26,6 +26,7 @@ comments: true
     <b>Introducción</b>
     <ol class="ol-cols">
       <a href="../../2015-01-10-MetodosFisicos-Oscar-1-1-1"><li>1</li></a>
+      <a href="../../2024-05-11-MetodosFisicos-Oscar-1-1-2"><li>2</li></a>
     </ol>
   </li>
 </ol>
