@@ -134,13 +134,115 @@ full-width: true
 </tr>
 
 <tr >
-    <td colspan="2" id="Solucionario-TimeForecasting-M"><center><a href="#">
+    <td id="Solucionario-TimeForecasting-M"><center><a href="#">
       <img alt="Solucionario-TimeForecasting-M" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/B014T2591Y.01._SCLZZZZZZZ_SX500_.jpg">
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Introduction to Time Series Analysis and Forecasting | Douglas C. Montgomery - Cheryl L. Jennings - Murat Kulahci | 2da Edición | Ingles</b></div>
       <div class="progress" tyle="height: 3px;">
   <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
 </div></a>
     </center></td>
+    <td id="Solucionario-AppliedLinearAlgebra-SthepenLieven"><center><a href="../solucionarios/AppliedLinearAlgebra-SthepenLieven">
+      <img alt="Solucionario-AppliedLinearAlgebra-SthepenLieven" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/51xCd81HoWL._SL1175_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Applied Linear Algebra | Peter J. Olver and Chehrzad Shakiban | 2da Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
     
 </tr>
+
+
+<tr >
+    <td id="Solucionario-Bartle"><center><a href="#">
+      <img alt="Solucionario-Bartle" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/61MRWZR2xYL._SL1360_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>The Elements of Integration and Lebesgue Measure | Robert G. Bartle | 1ra Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-BayesianAnalysisPython-Olvaldo"><center><a href="#">
+      <img alt="Solucionario-BayesianAnalysisPython-Olvaldo" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/81nDOq0Gt+L._SL1500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Bayesian Analysis with Python: A practical guide to probabilistic modeling | Osvaldo Martin| 2da Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    
+</tr>
+
+<tr >
+    <td id="Solucionario-DoingBayesianDataAnalysis-Kruschke"><center><a href="#">
+      <img alt="Solucionario-DoingBayesianDataAnalysis-Kruschke" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/51A4QA6VPsL._SL1092_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan | John Kruschke | 2da Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-Mathematical-Cryptography-JeffreyJillJoseph"><center><a href="#">
+      <img alt="Solucionario-Mathematical-Cryptography-JeffreyJillJoseph" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/61lMEeph-3L._SL1244_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>An Introduction to Mathematical Cryptography |  Jeffrey Hoffstein, Jill Pipher and Joseph H. Silverman| 2da Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    
+</tr>
+
+<tr >
+    <td id="Solucionario-PracticalCryptographyPython-Mitchell"><center><a href="#">
+      <img alt="Solucionario-PracticalCryptographyPython-Mitchell" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/613D2Yi-hRL._SL1360_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Practical Cryptography in Python: Learning Correct Cryptography by Example | Seth James Nielson and Christopher K. Monson| 1ra Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-CryptographyCodingTheory-WL"><center><a href="#">
+      <img alt="Solucionario-CryptographyCodingTheory-WL" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/515NvsG+gEL.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Introduction to Cryptography with Coding Theory |  Wade Trappe ans Lawrence Washington | 3ra Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    
+</tr>
+
+
+<tr >
+    <td id="Solucionario-PracticalMultivariateAnalysis-Abdelmonem"><center><a href="#">
+      <img alt="Solucionario-PracticalMultivariateAnalysis-Abdelmonem" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/71+5BhwFG-L._SL1500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Practical Multivariate Analysis | Abdelmonem Afifi, Susanne May, Robin Donatello and Virginia A. Clark | 6ta Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-LinearAlgebraOptimizationMachineLearning-JJ"><center><a href="#">
+      <img alt="Solucionario-LinearAlgebraOptimizationMachineLearning-JJ" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/71GGaoxwoVL._SL1360_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Linear Algebra and Optimization with Applications to Machine Learning - Volume I, II |  Jean H Gallier and Jocelyn Quaintance | 1ra Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    
+</tr>
+
+
+<tr >
+    <td id="Solucionario-NumberTheory-Geometry-AlvaroLozano"><center><a href="#">
+      <img alt="Solucionario-NumberTheory-Geometry-AlvaroLozano" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/41Y70UrrPTL.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Number Theory and Geometry: An Introduction to Arithmetic Geometry | Alvaro Lozano Robledo | 1ra Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-GameTheoryBehavior-JA"><center><a href="#">
+      <img alt="Solucionario-GameTheoryBehavior-JA" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/71iDQrTNURL._SL1500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>
+Game Theory and Behavior |  Jeffrey Carpenter and Andrea Robbett | 1ra Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    
+</tr>
+
 </tbody>
