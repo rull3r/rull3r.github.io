@@ -222,7 +222,6 @@ full-width: true
   <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
 </div></a>
     </center></td>
-    
 </tr>
 
 
@@ -238,6 +237,25 @@ full-width: true
       <img alt="Solucionario-GameTheoryBehavior-JA" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/71iDQrTNURL._SL1500_.jpg">
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>
 Game Theory and Behavior |  Jeffrey Carpenter and Andrea Robbett | 1ra Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    
+</tr>
+
+<tr >
+    <td id="Solucionario-Computability-George"><center><a href="#">
+      <img alt="Solucionario-Computability-George" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/51ptgvT3jpL._SL1285_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Computability | George Tourlakis | 1ra Edición | Ingles</b></div>
+      <div class="progress" tyle="height: 3px;">
+  <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
+</div></a>
+    </center></td>
+    <td id="Solucionario-ComputabilityComplexity-Hubie"><center><a href="#">
+      <img alt="Solucionario-ComputabilityComplexity-Hubie" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/I/81J1oGa9sVL._SL1500_.jpg">
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>
+Computability and Complexity | Hubie Chen | 1ra Edición | Ingles</b></div>
       <div class="progress" tyle="height: 3px;">
   <div class="progress-bar" role="progressbar" style="width: 1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1%</div>
 </div></a>
