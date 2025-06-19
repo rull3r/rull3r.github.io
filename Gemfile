@@ -6,4 +6,4 @@ gem "github-pages", group: :jekyll_plugins
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'faraday-retry'
 gem "webrick", ">= 1.8"
-gem 'wdm', '>= 0.1.0'
+gem 'wdm', '>= 0.2.0'
