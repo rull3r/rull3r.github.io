@@ -106,7 +106,7 @@ full-width: true
 </div></a>
     </center></td>
     <td id="Solucionario-MarkovChains-Bremaud"><center>
-      <a href="#"><img alt="Solucionario-MarkovChains-Bremaud" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/3030459810.01._SCLZZZZZZZ_SX500_.jpg">
+      <a href="../solucionarios/Solucionario-MarkovChains-Bremaud"><img alt="Solucionario-MarkovChains-Bremaud" width="200" height="300" style="object-fit: contain;" src="https://m.media-amazon.com/images/P/3030459810.01._SCLZZZZZZZ_SX500_.jpg">
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>Cadenas de Markov: Gibbs Fields, Monte Carlo Simulation and Queues  |  Pierre Bremaud | 2da Edición | Ingles</b></div>
       <div class="progress" tyle="height: 3px;">
   <div class="progress-bar" role="progressbar" style="width: 6%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">6%</div>
